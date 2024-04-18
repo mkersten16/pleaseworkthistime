@@ -1,0 +1,9 @@
+body {
+    color: rgb(62, 58, 58);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+title {
+    color: white;
+    font-style: oblique;
+}
